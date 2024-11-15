@@ -1,0 +1,23 @@
+https://laravel.com/docs/11.x/authentication
+
+https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/
+
+breeze
+
+composer create-project --prefer-dist laravel/laravel <NOM_DE_PROJET>
+
+composer require laravel/ui
+php artisan ui bootstrap --auth
+
+
+sudo apt install npm
+
+sudo apt remove npm
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+nvm list-remote
+nvm install v20.18.0
+
+nvm list
+
+npm install && npm run dev

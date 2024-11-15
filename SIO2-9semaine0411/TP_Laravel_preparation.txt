@@ -1,0 +1,14 @@
+
+• Créer 2 tables avec les migrations (utiliser au moins un champ avec une numerique)
+• Créer 2 Modèles correspondants avec les Validations adéquates
+• Créer les Factory en utilisant Faker
+• Créer les Seeder pour peupler la BDD avec une simulation de x instances des 2 Modèles
+• Créer les Contrôleurs de ces modèles avec un CRUD
+• Créer les Vues pour chaque ressource dans leurs dossiers respectifs contenant les fichiers blade
+(index.blade.php, create.blade.php, ...)
+• Implémenter les CRUD dans les Vues pour chaque modèle
+• Implémenter les routes dans « /routes/web.php »
+• Créer des Test en TDD
+• Créer une documentation
+• Pousser votre application dans votre branche du dépôt git « tp_laravel » en mentionnant dans commit la date d'aujourd'hui
+• S’assurer que tout fonctionne pour le mieux

@@ -1,0 +1,17 @@
+Pas d’association Pilote avec Ecurie et Ecurie avec Véhicule comme dans le diagramme UML
+Page blanche lors de la création ou mise à jour
+Pas d’affichage des blasons et photos
+Pas d’association Pilote avec Ecurie et Ecurie avec Véhicule comme dans le diagramme UML
+Page blanche lors de la création d’Ecurie
+Page blanche lors de l’accès à page Voiture et Pilote
+Création de BDD uniquement par fichier SQL	
+Association Pilote avec Ecurie et Ecurie avec Véhicule ne correspond  pas au diagramme UML
+Pages non fonctionnelles par manque de balises PHP
+Pas d’affichage des blasons et photos
+Création de table uniquement par fichier SQL et nécessité de créer la bdd en premier lieu	
+Création de Classe dans un include/require de classe Database résultant avec une erreur
+Pas de Namespace dans les Controleurs
+Pas d’implémentation pour les fichiers images
+Absence d’implémentation pour la suppression d’un enregistrement
+Implémentation plus fonctionnelle que POO
+
